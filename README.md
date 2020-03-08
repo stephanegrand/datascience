@@ -18,8 +18,7 @@ https://regexper.com/
 
 
 <h2>Cloud AWS</h2>
-AWS cost
-Spot Bid Advisor
+AWS cost Spot Bid Advisor
 https://aws.amazon.com/fr/ec2/spot/bid-advisor/
 
 AWS Cost Explorer
