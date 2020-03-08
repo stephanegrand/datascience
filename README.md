@@ -31,6 +31,9 @@ The blog page about AWS TCO Calculator
 https://aws.amazon.com/fr/blogs/aws/the-new-aws-tco-calculator/
 
 AWS graphical architecture design
+Draw io
 https://www.draw.io/
+
+Cloud Craft
 https://cloudcraft.co/
 
