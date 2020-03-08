@@ -2,10 +2,10 @@
 My public GitHub repository for Data Science
 
 
-My favorite tools
+<h1>My favorite tools</h1>
 
 
-Data Engineering
+<h2>Data Engineering</h2>
 OpenRefine (previously Google Refine) is a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data.
 https://openrefine.org/
 
@@ -17,7 +17,7 @@ https://regexper.com/
 
 
 
-Cloud AWS
+<h2>Cloud AWS</h2>
 AWS cost
 Spot Bid Advisor
 https://aws.amazon.com/fr/ec2/spot/bid-advisor/
