@@ -4,6 +4,8 @@ My public GitHub repository for Data Science
 
 My favorite tools
 
+
+Data Engineering
 OpenRefine (previously Google Refine) is a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data.
 https://openrefine.org/
 
@@ -12,3 +14,24 @@ https://regex101.com/
 
 Regexper for display regular expression with a graphic
 https://regexper.com/
+
+
+
+Cloud AWS
+AWS cost
+Spot Bid Advisor
+https://aws.amazon.com/fr/ec2/spot/bid-advisor/
+
+AWS Cost Explorer
+https://aws.amazon.com/fr/aws-cost-management/aws-cost-explorer/
+
+AWS Total Cost of Ownership (TCO) Calculator 
+https://awstcocalculator.com/
+
+The New AWS TCO (Total Cost of Ownership) Calculator
+https://aws.amazon.com/fr/blogs/aws/the-new-aws-tco-calculator/
+
+AWS graphical architecture design
+https://www.draw.io/
+https://cloudcraft.co/
+
