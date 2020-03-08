@@ -28,7 +28,7 @@ https://aws.amazon.com/fr/aws-cost-management/aws-cost-explorer/
 AWS Total Cost of Ownership (TCO) Calculator 
 https://awstcocalculator.com/
 
-The New AWS TCO (Total Cost of Ownership) Calculator
+The blog page about AWS TCO Calculator
 https://aws.amazon.com/fr/blogs/aws/the-new-aws-tco-calculator/
 
 AWS graphical architecture design
